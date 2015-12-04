@@ -1,0 +1,20 @@
+{
+    "name": "jnjxl/view",
+    "description": "aura view for laravel",
+    "require": {
+        "aura/view": "^2.1",
+        "aura/html": "^2.4"
+    },
+    "license": "AGPL",
+    "authors": [
+        {
+            "name": "jake johns",
+            "email": "jake@jakejohns.net"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "Jnjxl\\View\\": "src/"
+        }
+    }
+}
